@@ -13,7 +13,11 @@ Online Forums: Creates a more inclusive and respectful environment for discussio
 Customer Support: Identifies and addresses toxic customer interactions.
 
 The video of the final project:
+
 https://github.com/user-attachments/assets/054f20d2-30e4-4127-8c22-2074692db7bc
 
+
 The RNN model is given below:
+
+
 <img width="457" alt="Screenshot 2024-08-18 at 7 59 04 PM" src="https://github.com/user-attachments/assets/ac2a1d3f-9efa-41a0-84b0-7644de076e58">
